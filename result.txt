@@ -1,0 +1,22 @@
+constructor
+The person's number is:1234567  name is: z
+The person's number is:2345678  name is: h
+constructor
+constructor
+distructor
+id:  The person's number is:3456789             name is: g
+school is:sysu
+id:  The person's number is:4567898             name is: i
+school is:sysu2
+constructor
+distructor
+id:  The person's number is:5678987             name is: q
+school is:sysu3
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
+distructor
